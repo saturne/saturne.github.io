@@ -9,7 +9,7 @@ body{
 /*Padding expands an image and margin makes an image smaller*/
 header{
 	text-align: center;
-	background:url(../images/vector.jpg);
+	background:url(vector.jpg);
 	background-repeat: no-repeat;
 	background-size: 2000px 700px;
 	color: red;
